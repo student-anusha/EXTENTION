@@ -13,11 +13,6 @@
 - **Popup Interface** - Displays analysis results with visual metrics
 - **Site Database** - Maps websites to personality traits and privacy levels
 
-**Features:**
-- Local analysis (no data sent to servers)
-- Multiple time range options (7/30/90 days)
-- Visual metrics and personality scoring
-- Results export capability
-- Real-time browsing tracking
+
 
 **Output:** Personality type, privacy score, behavior insights, and top site categories based on browsing patterns.
